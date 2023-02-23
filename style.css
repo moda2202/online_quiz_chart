@@ -1,0 +1,33 @@
+#timeline {
+  height: 400px;
+}
+
+.timeline-title {
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+.timeline {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.timeline-phase {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.timeline-dates {
+  margin-bottom: 20px;
+}
+
+.timeline-date {
+  font-size: 16px;
+  margin-right: 10px;
+  padding-right: 10px;
+  border-right: 1px solid #ccc;
+}
+h1{
+  text-align: center;
+}
